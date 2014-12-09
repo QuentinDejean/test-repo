@@ -1,6 +1,6 @@
 {
   "name": "FrenchApp",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "authors": [
     "Quentin Dejean <quentin.dejean34@gmail.com>"
   ],
@@ -21,7 +21,7 @@
     "test.iml",
     "bower.json",
     "gruntfile.js",
-    "package.json",
+    "npm-debug.log",
     "README.md"
   ],
   "dependencies": {

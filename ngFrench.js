@@ -1,3 +1,10 @@
 'use strict';
 
-console.log('et voila!');
+angular.module('ngFrench')
+.service('FrenchService', function() {
+    return {
+        saysSomethingFrench : function () {
+            console.log("et voila!")
+        }
+    }
+});
