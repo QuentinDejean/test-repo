@@ -25,7 +25,6 @@
     "README.md"
   ],
   "dependencies": {
-    "my-test-package-name": "*",
     "angular": "1.3.0"
   }
 }

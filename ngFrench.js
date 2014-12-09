@@ -4,7 +4,7 @@ angular.module('ngFrench')
 .service('FrenchService', function() {
     return {
         saysSomethingFrench : function () {
-            console.log("et voila!")
+            console.log("et voila!!!!")
         }
     }
 });
